@@ -70,6 +70,10 @@ Atualmente, o WebService está realizando consultas de situação fiscal no e-CA
 
 <br>
 
+#### Endpoint method: POST (No-Auth)
+
+<br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53920696/116197266-ea754e80-a70a-11eb-98ef-a5c756c0e294.png">
 </p>
@@ -77,6 +81,10 @@ Atualmente, o WebService está realizando consultas de situação fiscal no e-CA
 <br>
 
 - Para realizar a consulta no e-CAC para averiguação da situação fiscal, o novo endpoint, além do cliente OAuth para o teste, será disponibilizado via chat para execução. Seus três parâmetros (já incluso validação no endpoint) seguem o seguinte formato (este endpoint requer autenticação OAuth completa (primeira foto)):
+
+<br>
+
+#### Endpoint method: POST (Full-Auth (User + Client Credentials))
 
 <br>
 
